@@ -20,6 +20,6 @@ Below show an example how to setup a deposit of 280 by clicking deposit from the
 
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
-npm install```
+git clone repo
+cd repo
+npm install and run npm web on safari as part of the testing```
