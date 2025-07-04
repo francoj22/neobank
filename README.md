@@ -14,7 +14,7 @@ Financial application where can register transaction online
 ## Setting Deposit
 Below show an example how to setup a deposit of 280 by clicking deposit from the dashboard
 
-## Ilustration
+## Illustration
 
 ![Neobank UI](assets/neobank-deposit.png)
 
