@@ -12,7 +12,7 @@ Financial application where can register transaction online
 ## 🛠️ Installation
 
 Clone the repo and install dependencies:
-
+![Neobank UI](assets/neobank.png)
 ```bash
 git clone https://github.com/your-username/your-repo.git
 cd your-repo
